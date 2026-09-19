@@ -1,3 +1,3 @@
-This repository I want to focus on the Windows OS.
-Since a lot of vulnerabilities are made mostly for Windows, during my HackTheBox studies, I will have other Windows-themed topics, that I will give summaries.
-Tools used in practical tasks/labs were: Windows PowerShell and also Kali Linux terminal
+In this repository, I am documenting writeups, that will be for the Windows OS system.
+All of the labs with different techniques were provided by training platforms like HackTheBox.com and are authorized for training purposes.
+In some labs I used Linux terminal and Windows powershell as well as other tools the OS has to offer.
